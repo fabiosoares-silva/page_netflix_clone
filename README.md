@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://j.gifs.com/Qkg4nL.gif"/>
+<img src="./images/nextpage.png">
 
 <br>
 
