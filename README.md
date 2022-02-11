@@ -6,7 +6,7 @@
 
 <br>
 
-### Esse projeto, de recriar a interface a página principal do Netflix, foi criado em um Bootcamp da Digital Innovation One, com a orientação do Coordenador Education, Felipe Aguiar, e teve como objetivo de criar um layout utilizando técnicas de CSS3, com containers, entendendo como posicionar os elementos com Flexbox e plugins JQuery. Alterei algumas informações e inclui o contexto de livros, renomeando o famoso serviço de streaming para NEXTPAGE.
+### Esse projeto, de recriar a interface da página principal do Netflix, foi criado em um Bootcamp da Digital Innovation One, com a orientação do Coordenador Education, Felipe Aguiar, e teve como objetivo de criar um layout utilizando técnicas de CSS3, com containers, entendendo como posicionar os elementos com Flexbox e plugins JQuery. Alterei algumas informações e inclui o contexto de livros, renomeando o famoso serviço de streaming para NEXTPAGE.
 
 <br>
 
